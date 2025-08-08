@@ -1,5 +1,5 @@
 public class aajchifile {
     public static void main(String[] args) {
-        System.out.println("Hello maza, kingworld!");
+        System.out.println("Hellooo maza, kingworld!");
     }
 }
